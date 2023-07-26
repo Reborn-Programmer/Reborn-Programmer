@@ -1,4 +1,4 @@
--⭐You regenerate a programmer, and when you come in here, you'll see that I'm a programmer too, but I'm a little noob. So can you give a little rookie a little star?
+-⭐You generate another programmer, and when you come here, you'll see that I'm a programmer too, but I'm a rookie. So can you give a little rookie a little star?
 -Here I will share some of my tips and projects, hoping to help you advance to the level of rookie.
 -You can also follow my other accounts, such as: CNSD:https://blog.csdn.net/weixin_57529627，here are some of the front-end knowledge I usually learn.
 -If you have any problems, you can also message me privately, do my best to help you solve, prompt yourself and help you at the same time.
